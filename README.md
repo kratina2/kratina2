@@ -38,6 +38,3 @@ Apaixonado por tecnologia, focado em aprender e crescer todos os dias 🚀
 
 ---
 
-<div align="center">
-Feito por Igor Kratina
-</div>
